@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from kiroku!")
+    print("T'is the season to commit")
